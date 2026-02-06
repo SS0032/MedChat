@@ -21,21 +21,8 @@ This project demonstrates the use of AI in healthcare-oriented conversational sy
 
 ## 🏗️ Project Architecture
 
-MedChat/
-│
-├── backend/
-│   ├── main.py          # FastAPI server
-│   ├── ai_agent.py      # AI agent logic
-│   ├── tools.py         # Emergency & helper tools
-│   ├── config.py        # API configuration
-│
-├── frontend.py          # Streamlit UI
-├── evaluate.py          # Evaluation metrics script
-├── evaluation_logs.csv  # Generated interaction logs
-├── README.md
+<img width="484" height="331" alt="image" src="https://github.com/user-attachments/assets/c47b8158-da3d-48a6-8932-7bfd168cdd5b" />
 
-
----
 
 ## ⚙️ Tech Stack
 
